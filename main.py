@@ -1,5 +1,6 @@
 import asyncio
 import pygame
+import pygbag
 
 pygame.init()
 
